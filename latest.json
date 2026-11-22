@@ -1,10 +1,10 @@
 {
-  "version": "3.8.84",
-  "notes": "SangLink v3.8.84: Hộp thoại cập nhật 11 ngôn ngữ không lộ 127.0.0.1, lưu kích thước & trạng thái phóng to cửa sổ, thu nhỏ chuẩn Taskbar & cải thiện Update & Restart.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.84/SangLink-Patch-v3.8.84.zip",
-  "patch_sha256": "1f79cfdc40467e831f3faf9f1c0dd65dbff55bc6a43efdefed9c75d628cadbf3",
-  "patch_size_mb": 7.67,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.84/SangLink-Setup-v3.8.84.zip",
-  "full_sha256": "04722c81d5ba5726b4852ae87e13234c40f9a4e730ab97506a620c82343159e5",
+  "version": "3.8.85",
+  "notes": "SangLink v3.8.85: Tách subprocess loại bỏ nghẽn GIL & bật TCP_NODELAY toàn tuyến WebSocket/RPC cho độ trễ siêu thấp.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.85/SangLink-Patch-v3.8.85.zip",
+  "patch_sha256": "e1cccfbe6af354ebec9b6fa1e41328aed415174ddf60cb47e644b977a30eb7e2",
+  "patch_size_mb": 7.16,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.85/SangLink-Setup-v3.8.85.zip",
+  "full_sha256": "d01ac91067ec8706798aadd1abfad48014c07104ad2ad6d3bf568390328f0b5a",
   "full_size_mb": 33.9
 }
