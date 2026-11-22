@@ -1,10 +1,10 @@
 {
-  "version": "3.8.86",
-  "notes": "SangLink v3.8.86: Bật sáng / khóa màn hình 100% không sót máy & chuột phải luôn mở thanh công cụ bên.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.86/SangLink-Patch-v3.8.86.zip",
-  "patch_sha256": "cba212e33d801dc667110e1cd68c117648c4e657ad67ffa8bdd5e6658ac521af",
+  "version": "3.8.87",
+  "notes": "SangLink v3.8.87: Thanh công cụ chuột phải hiện ngay cạnh máy (cả lưới chính & Nhóm thiết bị), không bao giờ bị khuất & kéo di chuyển tự do.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.87/SangLink-Patch-v3.8.87.zip",
+  "patch_sha256": "94aa67f6efd0a81bd4932e004c9e8897b80540ccc29f048776525d96e70d786a",
   "patch_size_mb": 7.5,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.86/SangLink-Setup-v3.8.86.zip",
-  "full_sha256": "1e2e8a70aea1aaf64b28b8bed0aeed0741fec81db1949fa2eea4ef031761a56a",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.87/SangLink-Setup-v3.8.87.zip",
+  "full_sha256": "92b3b5bfb56e25835f587b4e2acd15e4aab4482503b5865bd5ed09202b964db7",
   "full_size_mb": 33.9
 }
