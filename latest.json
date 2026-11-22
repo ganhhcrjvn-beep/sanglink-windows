@@ -1,10 +1,10 @@
 {
-  "version": "3.8.88",
-  "notes": "SangLink v3.8.88: Thêm nút đóng ✕, bấm ra ngoài hoặc nhấn Esc để đóng ngay thanh công cụ chuột phải.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.88/SangLink-Patch-v3.8.88.zip",
-  "patch_sha256": "8ade39292df994d001a35149f347f6bd7518c279d07718bd207ad10811c2e884",
+  "version": "3.8.89",
+  "notes": "SangLink v3.8.89: Sửa thanh công cụ chuột phải gọn đúng 200px ngay cạnh máy, bấm ra ngoài tự đóng ngay không chắn click.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.89/SangLink-Patch-v3.8.89.zip",
+  "patch_sha256": "813a1c5b73a37f51eaec0dddce5885b830832f7d30d8ee584806cb88732d9cfa",
   "patch_size_mb": 7.5,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.88/SangLink-Setup-v3.8.88.zip",
-  "full_sha256": "2a2371e42d2466bf1d4985099273f5650019a766bcbb4ef777719b912b032ab4",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.89/SangLink-Setup-v3.8.89.zip",
+  "full_sha256": "ef15bc4a0b310f288fd28dd74ecab5357b7b93b24d3fe820ed754c2e93ef0ed8",
   "full_size_mb": 33.9
 }
