@@ -1,0 +1,10 @@
+{
+  "version": "3.8.81",
+  "notes": "SangLink v3.8.81: Quét tên & số máy cố định, giữ nút + xóa máy offline, điều khiển đồng bộ 60+ iPhone ổn định & Auto-Updater tải ngầm Delta Patch 2 giây.",
+  "patch_url": "",
+  "patch_sha256": "",
+  "patch_size_mb": 0,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.81/SangLink-Setup-v3.8.81.zip",
+  "full_sha256": "9a57c66a728e0a51f9e1fee110891e897135edd4bb75a7ef090cdfaf050c565f",
+  "full_size_mb": 33.89
+}
