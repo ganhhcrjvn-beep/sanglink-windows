@@ -1,10 +1,10 @@
 {
-  "version": "3.8.82",
-  "notes": "SangLink v3.8.82: Ghim sẵn Quét tên & số + Cập nhật, nút Update & Restart góc phải, dịch đủ 11 ngôn ngữ & cập nhật bảng quyền lợi VIP.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.82/SangLink-Patch-v3.8.82.zip",
-  "patch_sha256": "1137cae9a938d72c06bd888dcbd955bfd844e16708822cf5ae09580659af36a8",
+  "version": "3.8.83",
+  "notes": "SangLink v3.8.83: Sửa tiêu đề phiên bản góc trái trên, căn đều thanh icon góc phải & hoàn thiện nút Cập nhật (Update & Restart).",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.83/SangLink-Patch-v3.8.83.zip",
+  "patch_sha256": "3275b1a2b43d191043d8034281a57b5fdeb1f79087df257df6b85a312e5d288e",
   "patch_size_mb": 7.67,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.82/SangLink-Setup-v3.8.82.zip",
-  "full_sha256": "da69dc8fd45e2f83f58de01340c12f6117c5aae485e1cd12b1558a1a8e789cee",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.83/SangLink-Setup-v3.8.83.zip",
+  "full_sha256": "aa686be3df6c5027589caddfbc4c82263f5b7f04cd7cde44272d6da263dcf323",
   "full_size_mb": 33.9
 }
