@@ -1,10 +1,10 @@
 {
-  "version": "3.8.89",
-  "notes": "SangLink v3.8.89: Sửa thanh công cụ chuột phải gọn đúng 200px ngay cạnh máy, bấm ra ngoài tự đóng ngay không chắn click.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.89/SangLink-Patch-v3.8.89.zip",
-  "patch_sha256": "813a1c5b73a37f51eaec0dddce5885b830832f7d30d8ee584806cb88732d9cfa",
-  "patch_size_mb": 7.5,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.89/SangLink-Setup-v3.8.89.zip",
-  "full_sha256": "ef15bc4a0b310f288fd28dd74ecab5357b7b93b24d3fe820ed754c2e93ef0ed8",
-  "full_size_mb": 33.9
+  "version": "3.8.90",
+  "notes": "SangLink v3.8.90: Sửa bảng Quyền lợi Gói VIP, check update tức thì không bị cache CDN, tự thoát treo Panda Helper qua Home/Unlock, dịch đủ 11 ngôn ngữ thanh công cụ.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.90/SangLink-Patch-v3.8.90.zip",
+  "patch_sha256": "b1ade9724b137ec20542a1ef04256f824a04e5799c5a26203ebf263ddd982a12",
+  "patch_size_mb": 7.59,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.90/SangLink-Setup-v3.8.90.zip",
+  "full_sha256": "7e0ef5f1446d7babc7f00d165eea6302b127b2ec33cf4133efb2e39fa95cd6bc",
+  "full_size_mb": 33.91
 }
