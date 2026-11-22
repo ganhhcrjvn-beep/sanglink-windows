@@ -2,9 +2,9 @@
   "version": "3.8.85",
   "notes": "SangLink v3.8.85: Tách subprocess loại bỏ nghẽn GIL & bật TCP_NODELAY toàn tuyến WebSocket/RPC cho độ trễ siêu thấp.",
   "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.85/SangLink-Patch-v3.8.85.zip",
-  "patch_sha256": "e1cccfbe6af354ebec9b6fa1e41328aed415174ddf60cb47e644b977a30eb7e2",
+  "patch_sha256": "60013e4f3bb5c20f6a53c498070f7c816e1832d74e695eb71eb8bf3653ae1690",
   "patch_size_mb": 7.16,
   "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.85/SangLink-Setup-v3.8.85.zip",
-  "full_sha256": "d01ac91067ec8706798aadd1abfad48014c07104ad2ad6d3bf568390328f0b5a",
+  "full_sha256": "1c8c3ea42fba5bc7c31db531988ca96212bda026db03a0bdc02eda02c3d43e39",
   "full_size_mb": 33.9
 }
