@@ -1,10 +1,10 @@
 {
-  "version": "3.8.81",
-  "notes": "SangLink v3.8.81: Quét tên & số máy cố định, giữ nút + xóa máy offline, điều khiển đồng bộ 60+ iPhone ổn định & Auto-Updater tải ngầm Delta Patch 2 giây.",
-  "patch_url": "",
-  "patch_sha256": "",
-  "patch_size_mb": 0,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.81/SangLink-Setup-v3.8.81.zip",
-  "full_sha256": "9a57c66a728e0a51f9e1fee110891e897135edd4bb75a7ef090cdfaf050c565f",
-  "full_size_mb": 33.89
+  "version": "3.8.82",
+  "notes": "SangLink v3.8.82: Ghim sẵn Quét tên & số + Cập nhật, nút Update & Restart góc phải, dịch đủ 11 ngôn ngữ & cập nhật bảng quyền lợi VIP.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.82/SangLink-Patch-v3.8.82.zip",
+  "patch_sha256": "1137cae9a938d72c06bd888dcbd955bfd844e16708822cf5ae09580659af36a8",
+  "patch_size_mb": 7.67,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.82/SangLink-Setup-v3.8.82.zip",
+  "full_sha256": "da69dc8fd45e2f83f58de01340c12f6117c5aae485e1cd12b1558a1a8e789cee",
+  "full_size_mb": 33.9
 }
