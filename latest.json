@@ -1,10 +1,10 @@
 {
-  "version": "3.9.11",
-  "notes": "SangLink v3.9.11: Tự động nạp DeveloperDiskImage.dmg trước khi chạy xctest giúp máy vừa reset/reboot tự mở WDA và giữ kết nối liên tục 24/7 như Xiaowei.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.11/SangLink-Patch-v3.9.11.zip",
-  "patch_sha256": "41259d0811fc8752eb7e2dc3415f0bdddcc0e96a1871d82d2a4f3dca8b38c782",
-  "patch_size_mb": 7.66,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.11/SangLink-Setup-v3.9.11.zip",
-  "full_sha256": "3a06635c68ebfe4a072e37f1c47cb125bb6d6153c4d1febfeb60ce7bbcc080fb",
-  "full_size_mb": 33.96
+  "version": "3.9.12",
+  "notes": "SangLink v3.9.12: Sửa lỗi gọi đúng tidevice.xcuitest() giúp máy có WDA tự kết nối lại 24/7 + thêm nút Kết nối WDA ghim sẵn ngoài thanh công cụ (11 ngôn ngữ).",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.12/SangLink-Patch-v3.9.12.zip",
+  "patch_sha256": "2764d15afe35d484790f9ec19ce2f159a269bc74bbfafa17f8f7334021d95619",
+  "patch_size_mb": 7.69,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.12/SangLink-Setup-v3.9.12.zip",
+  "full_sha256": "ab7e03e8cbaab44ab930421caa30692cd4f22c01c3e009cdb0df776bc72d9062",
+  "full_size_mb": 33.97
 }
