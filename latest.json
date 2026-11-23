@@ -1,10 +1,10 @@
 {
-  "version": "3.9.1",
-  "notes": "SangLink v3.9.1: Giữ vị trí cuộn, kéo chuột quét chọn nhiều máy, tích hợp trực tiếp Dev Mode & WDA trong Tab 3, sửa triệt để Kích hoạt & Bỏ qua thiết lập (tidevice pair + set_value).",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.1/SangLink-Patch-v3.9.1.zip",
-  "patch_sha256": "40685e4606cc6257606db61ab45e1a918e046cda535b65821763d8dfbd22b0a5",
-  "patch_size_mb": 7.63,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.1/SangLink-Setup-v3.9.1.zip",
-  "full_sha256": "33e86e5e9b1e3ee3a22ea3b07d69d561e5251aaef821f1e8fe1bddf0b33dc12a",
-  "full_size_mb": 33.94
+  "version": "3.9.2",
+  "notes": "SangLink v3.9.2: Sửa lỗi HTTP 400 khi Kích hoạt & Bỏ qua thiết lập, chọn nhiều máy khi kích hoạt, tự lưu/khôi phục tên máy theo UDID sau reset, sửa Check Dev Mode & WDA, cảnh báo Thiếu WDA trên lưới chính, bộ icon SVG mới.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.2/SangLink-Patch-v3.9.2.zip",
+  "patch_sha256": "554befafa75fb72ecb666ea16aff068574911e2fa759afc4bf3f00e62d3bf810",
+  "patch_size_mb": 7.64,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.2/SangLink-Setup-v3.9.2.zip",
+  "full_sha256": "63b86ce9cd5f6379fc454843a82ffa456d58aec5aa53cba26f1a6b14380932e9",
+  "full_size_mb": 33.95
 }
