@@ -1,10 +1,10 @@
 {
-  "version": "3.8.91",
-  "notes": "SangLink v3.8.91: Sửa triệt để lỗi tự mở & treo lặp Panda Helper mỗi 8 giây (kể cả khi đã tắt màn hình), giới hạn 1 luồng xctest/máy.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.91/SangLink-Patch-v3.8.91.zip",
-  "patch_sha256": "730d2bb4140ec33a4a4ff015301ff4b03e8b59a8eef600218418341884c5cb09",
-  "patch_size_mb": 7.59,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.8.91/SangLink-Setup-v3.8.91.zip",
-  "full_sha256": "3ae0ab0b1bd51a9051b14fe90cf5e657f852036c5e75a8299b1a0ceda543ad6e",
-  "full_size_mb": 33.91
+  "version": "3.9.0",
+  "notes": "SangLink v3.9.0 (Big Update): Hộp công cụ VIP tích hợp Kích hoạt & Bỏ qua thiết lập (Ngôn ngữ/Vùng/Wi-Fi), Xóa/Reset nhanh hàng loạt kiểu 3uTools, và Dev Mode & WDA.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.0/SangLink-Patch-v3.9.0.zip",
+  "patch_sha256": "63a256ce1d435d629ab3f7f96572aa3f3128a74a79c4b7d0942722901f09ee23",
+  "patch_size_mb": 7.63,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.0/SangLink-Setup-v3.9.0.zip",
+  "full_sha256": "45330c4a54c99f275d90822312a0c884661b184c86cbaa007cd2f3a34f706ed4",
+  "full_size_mb": 33.94
 }
