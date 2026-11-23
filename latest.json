@@ -1,10 +1,10 @@
 {
-  "version": "3.9.2",
-  "notes": "SangLink v3.9.2: Sửa lỗi HTTP 400 khi Kích hoạt & Bỏ qua thiết lập, chọn nhiều máy khi kích hoạt, tự lưu/khôi phục tên máy theo UDID sau reset, sửa Check Dev Mode & WDA, cảnh báo Thiếu WDA trên lưới chính, bộ icon SVG mới.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.2/SangLink-Patch-v3.9.2.zip",
-  "patch_sha256": "554befafa75fb72ecb666ea16aff068574911e2fa759afc4bf3f00e62d3bf810",
+  "version": "3.9.3",
+  "notes": "SangLink v3.9.3: Sửa nhãn xanh Dev Mode BẬT / WDA Đã cài, bổ sung DeviceConfigured + ChangeSettings cho Bỏ qua thiết lập, hiện nhãn Thiếu WDA / Chưa kích hoạt trên lưới chính.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.3/SangLink-Patch-v3.9.3.zip",
+  "patch_sha256": "07509c1df84132f978e1ae2821122f781402aaf55efea89a168a94e73386de0f",
   "patch_size_mb": 7.64,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.2/SangLink-Setup-v3.9.2.zip",
-  "full_sha256": "63b86ce9cd5f6379fc454843a82ffa456d58aec5aa53cba26f1a6b14380932e9",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.3/SangLink-Setup-v3.9.3.zip",
+  "full_sha256": "0c0547ad3de292642e956248ea9635b41d7421fcf468dc06770787896812ea2b",
   "full_size_mb": 33.95
 }
