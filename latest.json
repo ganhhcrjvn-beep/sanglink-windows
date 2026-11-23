@@ -1,10 +1,10 @@
 {
-  "version": "3.9.6",
-  "notes": "SangLink v3.9.6: Bản ổn định Kích hoạt & Bỏ qua thiết lập 1 chạm (đã kiểm chứng vào thẳng màn hình chính trên iOS 16), xử lý mã 14002 và tự khôi phục tên máy theo UDID.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.6/SangLink-Patch-v3.9.6.zip",
-  "patch_sha256": "e9071c4106c519fc370d4fdc3b9c51ce33482e3c09d88a7289d9b6153a2a687e",
-  "patch_size_mb": 7.64,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.6/SangLink-Setup-v3.9.6.zip",
-  "full_sha256": "673283263f6bc1f55b6e7f6d54d1d939f732a5aef40966e02b97226135e32a40",
-  "full_size_mb": 33.95
+  "version": "3.9.7",
+  "notes": "SangLink v3.9.7: Đổi cảnh báo thành \"Thiếu WDA · Vui lòng kiểm tra lại\" và dịch đầy đủ 100% toàn bộ Hộp công cụ VIP sang 11 ngôn ngữ.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.7/SangLink-Patch-v3.9.7.zip",
+  "patch_sha256": "7c306e9dc3da2c746393b6ba0d8e6e471cf4b00234bd7dae6a00f5daaa441394",
+  "patch_size_mb": 7.65,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.7/SangLink-Setup-v3.9.7.zip",
+  "full_sha256": "eadf41d038835bf5b168fcb1a85dd4045d7cecb3a15f31818abe8615ffa318b1",
+  "full_size_mb": 33.96
 }
