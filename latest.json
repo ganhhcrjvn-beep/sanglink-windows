@@ -1,10 +1,10 @@
 {
-  "version": "3.9.3",
-  "notes": "SangLink v3.9.3: Sửa nhãn xanh Dev Mode BẬT / WDA Đã cài, bổ sung DeviceConfigured + ChangeSettings cho Bỏ qua thiết lập, hiện nhãn Thiếu WDA / Chưa kích hoạt trên lưới chính.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.3/SangLink-Patch-v3.9.3.zip",
-  "patch_sha256": "07509c1df84132f978e1ae2821122f781402aaf55efea89a168a94e73386de0f",
+  "version": "3.9.4",
+  "notes": "SangLink v3.9.4: Chuẩn hóa Skip Setup đúng 75 khóa + CloudConfigurationUIComplete + ForceNoBuddy như 3uTools; hiện rõ nhãn cảnh báo Thiếu WDA trên cả máy vừa reset (65, 75).",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.4/SangLink-Patch-v3.9.4.zip",
+  "patch_sha256": "0ad9e18e2d525cf325f62b10adff44351b651343ecf01b31ebd116d355fcc193",
   "patch_size_mb": 7.64,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.3/SangLink-Setup-v3.9.3.zip",
-  "full_sha256": "0c0547ad3de292642e956248ea9635b41d7421fcf468dc06770787896812ea2b",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.4/SangLink-Setup-v3.9.4.zip",
+  "full_sha256": "113124e0e5afc13c0ca11f5c628477637ab1c54bae644d9c6923db865f97ca2c",
   "full_size_mb": 33.95
 }
