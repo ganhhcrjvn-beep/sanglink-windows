@@ -1,10 +1,10 @@
 {
-  "version": "3.9.8",
-  "notes": "SangLink v3.9.8: Sắp xếp thứ tự số + bộ lọc Chưa có Dev Mode / Chưa có WDA; bỏ đóng khung & tự scale cảnh báo Thiếu WDA theo cỡ màn hình, không còn chồng lên thông báo mất USB.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.8/SangLink-Patch-v3.9.8.zip",
-  "patch_sha256": "10fda462a150cb46a6b74bf27e2d7254c43003e92fad7b312e58c84950714262",
+  "version": "3.9.9",
+  "notes": "SangLink v3.9.9: Căn gọn cảnh báo Thiếu WDA vừa khít hoàn toàn bên trong khung màn hình bo góc của từng máy, không tràn viền.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.9/SangLink-Patch-v3.9.9.zip",
+  "patch_sha256": "aa599cf54a115ede3e96d9d7d6e60d8e05bd946b707c66b0a70c6b9b04552eab",
   "patch_size_mb": 7.66,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.8/SangLink-Setup-v3.9.8.zip",
-  "full_sha256": "735596141d397e1fb9aa36015e690f1eda0df42807a87593d397e9d6c7563f59",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.9/SangLink-Setup-v3.9.9.zip",
+  "full_sha256": "24e2fb5812fd5e67a099fd9adc34c4df10f406a29a9ec1ccf856fb281f03196d",
   "full_size_mb": 33.96
 }
