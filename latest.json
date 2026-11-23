@@ -1,10 +1,10 @@
 {
-  "version": "3.9.5",
-  "notes": "SangLink v3.9.5: Khớp 100% mã máy ios_skip_setup của 3uTools (ConfigurationSource=2, SetupVersion=11, đúng 9 khóa CloudConfiguration) và sửa regex hiện nhãn Thiếu WDA trên lưới chính.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.5/SangLink-Patch-v3.9.5.zip",
-  "patch_sha256": "74a45376508d927959c241c87fc7e22c21cd09cc3fc2dced76ec57c5c2685d22",
+  "version": "3.9.6",
+  "notes": "SangLink v3.9.6: Bản ổn định Kích hoạt & Bỏ qua thiết lập 1 chạm (đã kiểm chứng vào thẳng màn hình chính trên iOS 16), xử lý mã 14002 và tự khôi phục tên máy theo UDID.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.6/SangLink-Patch-v3.9.6.zip",
+  "patch_sha256": "e9071c4106c519fc370d4fdc3b9c51ce33482e3c09d88a7289d9b6153a2a687e",
   "patch_size_mb": 7.64,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.5/SangLink-Setup-v3.9.5.zip",
-  "full_sha256": "f2238ec99a79d40446b0c4e1e83b1dfc970bc2485901cbbc2345277371e2b212",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.6/SangLink-Setup-v3.9.6.zip",
+  "full_sha256": "673283263f6bc1f55b6e7f6d54d1d939f732a5aef40966e02b97226135e32a40",
   "full_size_mb": 33.95
 }
