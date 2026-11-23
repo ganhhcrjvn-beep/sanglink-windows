@@ -1,10 +1,10 @@
 {
-  "version": "3.9.4",
-  "notes": "SangLink v3.9.4: Chuẩn hóa Skip Setup đúng 75 khóa + CloudConfigurationUIComplete + ForceNoBuddy như 3uTools; hiện rõ nhãn cảnh báo Thiếu WDA trên cả máy vừa reset (65, 75).",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.4/SangLink-Patch-v3.9.4.zip",
-  "patch_sha256": "0ad9e18e2d525cf325f62b10adff44351b651343ecf01b31ebd116d355fcc193",
+  "version": "3.9.5",
+  "notes": "SangLink v3.9.5: Khớp 100% mã máy ios_skip_setup của 3uTools (ConfigurationSource=2, SetupVersion=11, đúng 9 khóa CloudConfiguration) và sửa regex hiện nhãn Thiếu WDA trên lưới chính.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.5/SangLink-Patch-v3.9.5.zip",
+  "patch_sha256": "74a45376508d927959c241c87fc7e22c21cd09cc3fc2dced76ec57c5c2685d22",
   "patch_size_mb": 7.64,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.4/SangLink-Setup-v3.9.4.zip",
-  "full_sha256": "113124e0e5afc13c0ca11f5c628477637ab1c54bae644d9c6923db865f97ca2c",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.5/SangLink-Setup-v3.9.5.zip",
+  "full_sha256": "f2238ec99a79d40446b0c4e1e83b1dfc970bc2485901cbbc2345277371e2b212",
   "full_size_mb": 33.95
 }
