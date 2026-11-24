@@ -1,10 +1,10 @@
 {
-  "version": "3.10.0",
-  "notes": "SangLink v3.10.0: Tích hợp Đăng nhập App Store hàng loạt (tùy chỉnh Apple ID/mật khẩu, chọn máy lấy mã 2FA mặc định, Start/Pause/Resume/Cancel/Retry) + nâng cấp Cấu hình thiết bị chạy 12 máy song song & tự đóng pop-up iOS.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.0/SangLink-Patch-v3.10.0.zip",
-  "patch_sha256": "70f77b10ef35135d5fca3e59b63c7e81994ccc5a2b8852a38a3dc2552750f8dd",
-  "patch_size_mb": 7.76,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.0/SangLink-Setup-v3.10.0.zip",
-  "full_sha256": "c2813a6863eec59b951e0a125727f2a9ea7abfa4b78882fd51ed48e46d3214b0",
-  "full_size_mb": 34.04
+  "version": "3.10.1",
+  "notes": "SangLink v3.10.1: Sửa triệt để lỗi SessionID khi Reset/Bỏ qua thiết lập trên PC khác (tự tạo chứng chỉ Pair thuần Python), sửa lỗi dán Ctrl+V từ PC làm đơ thao tác, tăng tốc quét máy & đọc AppList gấp 20 lần.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.1/SangLink-Patch-v3.10.1.zip",
+  "patch_sha256": "99b86f4c564e04ebe373e5c6a7985a7520283c34cf702889137f2052f4ee81de",
+  "patch_size_mb": 7.77,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.1/SangLink-Setup-v3.10.1.zip",
+  "full_sha256": "8ec989487fc958aa5e083c89b627349ebf649cf2db4c502d6eb71b8be25c5dfc",
+  "full_size_mb": 34.05
 }
