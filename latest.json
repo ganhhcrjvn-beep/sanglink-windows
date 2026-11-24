@@ -1,10 +1,10 @@
 {
-  "version": "3.10.3",
-  "notes": "SangLink v3.10.3: Tự động xử lý thông báo WLAN & Di động, Tiếp tục, cuộn & Tắt Quảng cáo được cá nhân hóa khi mở App Store lần đầu + sửa nhận diện ô ID Apple / Mật khẩu / Đăng nhập tiếng Việt.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.3/SangLink-Patch-v3.10.3.zip",
-  "patch_sha256": "5ef45c7f46597bb2be8ec62435777b233557fa760071cadacfd0424a3a38b0f2",
+  "version": "3.10.4",
+  "notes": "SangLink v3.10.4: Sửa triệt để lỗi 'SessionID' khi kích hoạt/xóa máy trên mọi PC + bổ sung SetupDone & SetupFinishedAllSteps giúp iOS 15.8.x vào thẳng Màn hình chính không cần bấm Next ở màn Hello/Wi-Fi.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.4/SangLink-Patch-v3.10.4.zip",
+  "patch_sha256": "869c5c5069b24a2ced06f9c683e66b7f860c284ce9f7886860a6f24d7005b910",
   "patch_size_mb": 7.77,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.3/SangLink-Setup-v3.10.3.zip",
-  "full_sha256": "5cb5c28fdd7e8ad40c3748abf0b9c4d3ba6424dbbef4507125c29efd582812ec",
-  "full_size_mb": 34.05
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.4/SangLink-Setup-v3.10.4.zip",
+  "full_sha256": "78ef6db6805b52b7e63b9e250b1f489d5ef407639ed5182abc4021d9bdb52df0",
+  "full_size_mb": 34.06
 }
