@@ -1,10 +1,10 @@
 {
-  "version": "3.10.8",
-  "notes": "SangLink v3.10.8: Sửa triệt để lỗi PairingDialogResponsePending khi kích hoạt & bỏ qua thiết lập hàng loạt trên iOS 15.8.x (giữ nguyên PairRecord/HostID sau khi kích hoạt, khóa chống xung đột theo từng UDID, kích hoạt song song 4 luồng).",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.8/SangLink-Patch-v3.10.8.zip",
-  "patch_sha256": "b385d918b621b67ce99dc895c64eb65c4d3b50d56a27086c13140f42940757da",
-  "patch_size_mb": 7.79,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.8/SangLink-Setup-v3.10.8.zip",
-  "full_sha256": "af08bde25eda382780edc8f42400755022642656c33a1e7ed5c805e425de9e62",
-  "full_size_mb": 34.07
+  "version": "3.10.9",
+  "notes": "SangLink v3.10.9: Sửa luồng lấy mã OTP 2FA App Store trong 1 lượt chạy, thay Độ sáng 50% bằng Tự khóa màn hình 5 phút (300s), và tích hợp Tự động tải App từ Purchased (Instagram, Threads, YouTube, Gmail + app tùy chỉnh, xác minh bundle qua USB).",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.9/SangLink-Patch-v3.10.9.zip",
+  "patch_sha256": "9e51073d735a185b996b84e935264c682b142cd1155be4b67fb8aca5c7d23157",
+  "patch_size_mb": 7.82,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.9/SangLink-Setup-v3.10.9.zip",
+  "full_sha256": "4e52488d0cc064a5adc8490f5d34b7761cb18bf0c6fae21bd50624173ecd538a",
+  "full_size_mb": 34.1
 }
