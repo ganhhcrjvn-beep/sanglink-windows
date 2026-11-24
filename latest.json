@@ -1,10 +1,10 @@
 {
-  "version": "3.10.9",
-  "notes": "SangLink v3.10.9: Sửa luồng lấy mã OTP 2FA App Store trong 1 lượt chạy, thay Độ sáng 50% bằng Tự khóa màn hình 5 phút (300s), và tích hợp Tự động tải App từ Purchased (Instagram, Threads, YouTube, Gmail + app tùy chỉnh, xác minh bundle qua USB).",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.9/SangLink-Patch-v3.10.9.zip",
-  "patch_sha256": "9e51073d735a185b996b84e935264c682b142cd1155be4b67fb8aca5c7d23157",
+  "version": "3.10.10",
+  "notes": "SangLink v3.10.10: Tự động tắt thông báo hệ thống iOS (Update iOS, Nhà mạng, Dung lượng...) chặn trước khi gọi WDA bằng giao thức sessionless (/wda/alert/dismiss + shouldWaitForQuiescence=False).",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.10/SangLink-Patch-v3.10.10.zip",
+  "patch_sha256": "15bbb6a67807cb5ea01c5b427866a9bb164a96a9f2754057cba5215f759d66f8",
   "patch_size_mb": 7.82,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.9/SangLink-Setup-v3.10.9.zip",
-  "full_sha256": "4e52488d0cc064a5adc8490f5d34b7761cb18bf0c6fae21bd50624173ecd538a",
-  "full_size_mb": 34.1
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.10/SangLink-Setup-v3.10.10.zip",
+  "full_sha256": "367d4bd3af4d8000baf7a64547cc9d6b739b54d44a85fedfce71d92a7dbd73dc",
+  "full_size_mb": 34.11
 }
