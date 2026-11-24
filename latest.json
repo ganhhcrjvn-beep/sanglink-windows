@@ -1,10 +1,10 @@
 {
-  "version": "3.9.14",
-  "notes": "SangLink v3.9.14: Sửa triệt để lỗi timeout trên iPhone 8/iOS 16 (tạm dừng stream tránh tranh lock WDA, giảm snapshotMaxDepth=25), tự phục hồi cổng WDA 8100 và hiệu chỉnh slider độ sáng chính xác.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.14/SangLink-Patch-v3.9.14.zip",
-  "patch_sha256": "9d83149d3c749ccc99018c67abcf8a50456893b70881d2fec25984a457ff9074",
-  "patch_size_mb": 7.72,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.14/SangLink-Setup-v3.9.14.zip",
-  "full_sha256": "19519cb416b832c732ff63d84214b76e25752d8461cfa4c5a99e75aafdc39eec",
-  "full_size_mb": 34.0
+  "version": "3.10.0",
+  "notes": "SangLink v3.10.0: Tích hợp Đăng nhập App Store hàng loạt (tùy chỉnh Apple ID/mật khẩu, chọn máy lấy mã 2FA mặc định, Start/Pause/Resume/Cancel/Retry) + nâng cấp Cấu hình thiết bị chạy 12 máy song song & tự đóng pop-up iOS.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.0/SangLink-Patch-v3.10.0.zip",
+  "patch_sha256": "70f77b10ef35135d5fca3e59b63c7e81994ccc5a2b8852a38a3dc2552750f8dd",
+  "patch_size_mb": 7.76,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.0/SangLink-Setup-v3.10.0.zip",
+  "full_sha256": "c2813a6863eec59b951e0a125727f2a9ea7abfa4b78882fd51ed48e46d3214b0",
+  "full_size_mb": 34.04
 }
