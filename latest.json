@@ -1,10 +1,10 @@
 {
-  "version": "3.10.5",
-  "notes": "SangLink v3.10.5: Sửa xác nhận đăng nhập App Store báo SUCCESS chuẩn trên trang Tài khoản tiếng Việt + tích hợp Kết nối Wi-Fi tùy chọn & nút Tạm dừng / Tiếp tục / Hủy trong tab Cấu hình thiết bị.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.5/SangLink-Patch-v3.10.5.zip",
-  "patch_sha256": "2adca533b1aae5f5e2b5ff50a2f257df4b66959668c5fc46f75499e689660fba",
+  "version": "3.10.6",
+  "notes": "SangLink v3.10.6: Sửa triệt để lỗi 'Value' khi ghép nối/kích hoạt máy ở màn hình Hello trên PC khác + xác nhận đăng nhập App Store chuẩn + Kết nối Wi-Fi & Tạm dừng/Hủy trong Cấu hình thiết bị.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.6/SangLink-Patch-v3.10.6.zip",
+  "patch_sha256": "7c547104aed818e5cfeda14e1cb8a833eb137f7ee3ec9de683d28e601affd833",
   "patch_size_mb": 7.78,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.5/SangLink-Setup-v3.10.5.zip",
-  "full_sha256": "18a64619a0c4bf5ad10ed6c54f60eb18a9fbcce563a98f57ba86be7f027c2dc1",
-  "full_size_mb": 34.06
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.6/SangLink-Setup-v3.10.6.zip",
+  "full_sha256": "9f8a2d1abccfc8481416c66912bf3dffb0a73ec5f1b184f287208b49e674f151",
+  "full_size_mb": 34.07
 }
