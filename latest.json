@@ -1,10 +1,10 @@
 {
-  "version": "3.10.1",
-  "notes": "SangLink v3.10.1: Sửa triệt để lỗi SessionID khi Reset/Bỏ qua thiết lập trên PC khác (tự tạo chứng chỉ Pair thuần Python), sửa lỗi dán Ctrl+V từ PC làm đơ thao tác, tăng tốc quét máy & đọc AppList gấp 20 lần.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.1/SangLink-Patch-v3.10.1.zip",
-  "patch_sha256": "99b86f4c564e04ebe373e5c6a7985a7520283c34cf702889137f2052f4ee81de",
+  "version": "3.10.2",
+  "notes": "SangLink v3.10.2: Sửa lỗi deadlock RLock khi lưu cấu hình & bấm Bắt đầu đăng nhập App Store + phản hồi trạng thái RUNNING tức thì.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.2/SangLink-Patch-v3.10.2.zip",
+  "patch_sha256": "5fa5b8eee92d6e90443bc76d7384634849f4c75ff37703b4587274ec4d18bca9",
   "patch_size_mb": 7.77,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.1/SangLink-Setup-v3.10.1.zip",
-  "full_sha256": "8ec989487fc958aa5e083c89b627349ebf649cf2db4c502d6eb71b8be25c5dfc",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.2/SangLink-Setup-v3.10.2.zip",
+  "full_sha256": "542fe053236e89e8432906a30460e7f13aad8d794f269e2287156a16a96b7ed4",
   "full_size_mb": 34.05
 }
