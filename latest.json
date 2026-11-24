@@ -1,10 +1,10 @@
 {
-  "version": "3.10.4",
-  "notes": "SangLink v3.10.4: Sửa triệt để lỗi 'SessionID' khi kích hoạt/xóa máy trên mọi PC + bổ sung SetupDone & SetupFinishedAllSteps giúp iOS 15.8.x vào thẳng Màn hình chính không cần bấm Next ở màn Hello/Wi-Fi.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.4/SangLink-Patch-v3.10.4.zip",
-  "patch_sha256": "869c5c5069b24a2ced06f9c683e66b7f860c284ce9f7886860a6f24d7005b910",
-  "patch_size_mb": 7.77,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.4/SangLink-Setup-v3.10.4.zip",
-  "full_sha256": "78ef6db6805b52b7e63b9e250b1f489d5ef407639ed5182abc4021d9bdb52df0",
+  "version": "3.10.5",
+  "notes": "SangLink v3.10.5: Sửa xác nhận đăng nhập App Store báo SUCCESS chuẩn trên trang Tài khoản tiếng Việt + tích hợp Kết nối Wi-Fi tùy chọn & nút Tạm dừng / Tiếp tục / Hủy trong tab Cấu hình thiết bị.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.5/SangLink-Patch-v3.10.5.zip",
+  "patch_sha256": "2adca533b1aae5f5e2b5ff50a2f257df4b66959668c5fc46f75499e689660fba",
+  "patch_size_mb": 7.78,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.5/SangLink-Setup-v3.10.5.zip",
+  "full_sha256": "18a64619a0c4bf5ad10ed6c54f60eb18a9fbcce563a98f57ba86be7f027c2dc1",
   "full_size_mb": 34.06
 }
