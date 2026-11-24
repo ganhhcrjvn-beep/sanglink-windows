@@ -1,10 +1,10 @@
 {
-  "version": "3.9.13",
-  "notes": "SangLink v3.9.13: Tích hợp tự cấu hình iPhone (Độ sáng 50%, Bật khóa xoay, Tắt tự tải/cài iOS, Khóa màn hình khi xong) dùng lại WDA session & hàng đợi theo UDID, kèm tab Cấu hình thiết bị trong Công cụ VIP (11 ngôn ngữ).",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.13/SangLink-Patch-v3.9.13.zip",
-  "patch_sha256": "2d6fe387acd33b142a52a162acf9eb7a36d0831d98fcfae045bbede7751ffad4",
+  "version": "3.9.14",
+  "notes": "SangLink v3.9.14: Sửa triệt để lỗi timeout trên iPhone 8/iOS 16 (tạm dừng stream tránh tranh lock WDA, giảm snapshotMaxDepth=25), tự phục hồi cổng WDA 8100 và hiệu chỉnh slider độ sáng chính xác.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.14/SangLink-Patch-v3.9.14.zip",
+  "patch_sha256": "9d83149d3c749ccc99018c67abcf8a50456893b70881d2fec25984a457ff9074",
   "patch_size_mb": 7.72,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.13/SangLink-Setup-v3.9.13.zip",
-  "full_sha256": "1e3af1f5341f8a0f0413bfd7a8419188ff1af14c15d268fb2155d2e26baf8b9c",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.9.14/SangLink-Setup-v3.9.14.zip",
+  "full_sha256": "19519cb416b832c732ff63d84214b76e25752d8461cfa4c5a99e75aafdc39eec",
   "full_size_mb": 34.0
 }
