@@ -1,10 +1,10 @@
 {
-  "version": "3.10.11",
-  "notes": "SangLink v3.10.11: Thêm Quét kết nối USB (xóa lỗi báo mất kết nối ảo), luôn Terminate/Kill hẳn app trước mỗi tác vụ, sửa mở icon góc phải Account -> Purchased ở mục 3, và chỉ gọi WDA sau khi bấm Xác nhận đã Trust WDA.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.11/SangLink-Patch-v3.10.11.zip",
-  "patch_sha256": "35fecfe7e3fe7fc90fc053dccfc04bb0270daf80b859d19e3e8ca26e1bada447",
-  "patch_size_mb": 7.84,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.11/SangLink-Setup-v3.10.11.zip",
-  "full_sha256": "aca590e96bdfd78f51ac371010dc65018bccb5bd555be39e861664cf183bca34",
-  "full_size_mb": 34.12
+  "version": "3.10.12",
+  "notes": "SangLink v3.10.12: Tích hợp sẵn DeveloperDiskImage offline (sửa triệt để lỗi WDA trên PC mới), lưu PairRecord chuẩn Windows, sửa lỗi báo PairingDialogResponsePending khi cắm sang PC khác, và thêm công cụ Chẩn đoán & Quét PC lỗi.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.12/SangLink-Patch-v3.10.12.zip",
+  "patch_sha256": "556c12a0486887a1018a72d1244f06ca83f9cf8f5ccdd63c4025ec7552ff28b3",
+  "patch_size_mb": 32.26,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.12/SangLink-Setup-v3.10.12.zip",
+  "full_sha256": "50bac72e19b66a29add797b9982015e4cc7a4cee602c15692ebc1857991bd4fd",
+  "full_size_mb": 59.78
 }
