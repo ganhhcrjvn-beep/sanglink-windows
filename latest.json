@@ -1,10 +1,10 @@
 {
-  "version": "3.10.7",
-  "notes": "SangLink v3.10.7: Sửa triệt để lỗi 'LockdownService' và set_value(None) khi kích hoạt & bỏ qua thiết lập trên mọi PC (đã test thực tế 100% pass: name_restored, locale_ok, purplebuddy_ok, cloud_skip_ok).",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.7/SangLink-Patch-v3.10.7.zip",
-  "patch_sha256": "07f75f9a4f6ca9a6322837b12bca574a739fd79490602c83daae213e55e93988",
-  "patch_size_mb": 7.78,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.7/SangLink-Setup-v3.10.7.zip",
-  "full_sha256": "c7fbb5405279e3df45bad2ac6379001db675dc3a299a7b4efe7ec76e87fcb0d0",
+  "version": "3.10.8",
+  "notes": "SangLink v3.10.8: Sửa triệt để lỗi PairingDialogResponsePending khi kích hoạt & bỏ qua thiết lập hàng loạt trên iOS 15.8.x (giữ nguyên PairRecord/HostID sau khi kích hoạt, khóa chống xung đột theo từng UDID, kích hoạt song song 4 luồng).",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.8/SangLink-Patch-v3.10.8.zip",
+  "patch_sha256": "b385d918b621b67ce99dc895c64eb65c4d3b50d56a27086c13140f42940757da",
+  "patch_size_mb": 7.79,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.8/SangLink-Setup-v3.10.8.zip",
+  "full_sha256": "af08bde25eda382780edc8f42400755022642656c33a1e7ed5c805e425de9e62",
   "full_size_mb": 34.07
 }
