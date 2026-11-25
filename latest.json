@@ -1,10 +1,10 @@
 {
-  "version": "3.10.12",
-  "notes": "SangLink v3.10.12: Tích hợp sẵn DeveloperDiskImage offline (sửa triệt để lỗi WDA trên PC mới), lưu PairRecord chuẩn Windows, sửa lỗi báo PairingDialogResponsePending khi cắm sang PC khác, và thêm công cụ Chẩn đoán & Quét PC lỗi.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.12/SangLink-Patch-v3.10.12.zip",
-  "patch_sha256": "556c12a0486887a1018a72d1244f06ca83f9cf8f5ccdd63c4025ec7552ff28b3",
+  "version": "3.10.13",
+  "notes": "SangLink v3.10.13: Sửa triệt để lỗi tự bấm Hủy hộp thoại 'Tải về phiên bản cũ hơn' khi tải Instagram/Threads/Gmail trên iOS 15.8.8 và chống timeout khi tải nhiều app trên dàn đông máy.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.13/SangLink-Patch-v3.10.13.zip",
+  "patch_sha256": "3231581d4ed9dc4b81d8273e0c3809c33bdd0d7e885b42a456dfcac11933593d",
   "patch_size_mb": 32.26,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.12/SangLink-Setup-v3.10.12.zip",
-  "full_sha256": "50bac72e19b66a29add797b9982015e4cc7a4cee602c15692ebc1857991bd4fd",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.13/SangLink-Setup-v3.10.13.zip",
+  "full_sha256": "92cf410b764796f4634dbc4f3f76feddf134dafacf35d99ae90442b65e668749",
   "full_size_mb": 59.78
 }
