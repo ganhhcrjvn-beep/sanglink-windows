@@ -1,10 +1,10 @@
 {
-  "version": "3.10.13",
-  "notes": "SangLink v3.10.13: Sửa triệt để lỗi tự bấm Hủy hộp thoại 'Tải về phiên bản cũ hơn' khi tải Instagram/Threads/Gmail trên iOS 15.8.8 và chống timeout khi tải nhiều app trên dàn đông máy.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.13/SangLink-Patch-v3.10.13.zip",
-  "patch_sha256": "3231581d4ed9dc4b81d8273e0c3809c33bdd0d7e885b42a456dfcac11933593d",
+  "version": "3.10.14",
+  "notes": "SangLink v3.10.14: Tối ưu truyền tải hình ảnh MJPEG 35-45 FPS, gộp 1-packet TCP_NODELAY và Zero-Lag WebSocket ngang bản macOS (triệt tiêu delay hình ảnh & cảm ứng trên dàn 60 máy).",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.14/SangLink-Patch-v3.10.14.zip",
+  "patch_sha256": "9e7762b9d9a7317ffe0b482536a032281434f8c7811bf2621911b773e00f7f14",
   "patch_size_mb": 32.26,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.13/SangLink-Setup-v3.10.13.zip",
-  "full_sha256": "92cf410b764796f4634dbc4f3f76feddf134dafacf35d99ae90442b65e668749",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.14/SangLink-Setup-v3.10.14.zip",
+  "full_sha256": "7366276ea956f7d24d58a820e88c68d9cd68409e6bec56dc3021e198fd3e2901",
   "full_size_mb": 59.78
 }
