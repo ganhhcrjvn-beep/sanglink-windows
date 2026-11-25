@@ -1,10 +1,10 @@
 {
-  "version": "3.10.14",
-  "notes": "SangLink v3.10.14: Tối ưu truyền tải hình ảnh MJPEG 35-45 FPS, gộp 1-packet TCP_NODELAY và Zero-Lag WebSocket ngang bản macOS (triệt tiêu delay hình ảnh & cảm ứng trên dàn 60 máy).",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.14/SangLink-Patch-v3.10.14.zip",
-  "patch_sha256": "4435fbb67cb9265ec822d197442fafa0ee519f12bf1925e225f9dee37115636a",
-  "patch_size_mb": 32.26,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.14/SangLink-Setup-v3.10.14.zip",
-  "full_sha256": "ceab92d43072843631618d0627385d28c3f6dd660c9c123c4a7711f0d2639f41",
-  "full_size_mb": 59.78
+  "version": "3.10.15",
+  "notes": "SangLink v3.10.15: Khắc phục triệt để đứng hình phản chiếu khi đang chạy Tool, tối ưu mượt đồng bộ 50-60 máy, tinh gọn Kiểm tra môi trường và thêm Góp ý dán ảnh nhanh Ctrl+V.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.15/SangLink-Patch-v3.10.15.zip",
+  "patch_sha256": "da23b31081b3cf117abde8e31f043529be88e0383c0f4b8452f83ba7e60b7785",
+  "patch_size_mb": 32.28,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.15/SangLink-Setup-v3.10.15.zip",
+  "full_sha256": "4bdab88eedd9f4cfe089f52fddd00284abdba25ed12c5794e77ffcf3b6b95d4a",
+  "full_size_mb": 59.8
 }
