@@ -1,10 +1,10 @@
 {
-  "version": "3.10.16",
-  "notes": "SangLink v3.10.16: Ghim nút Quét USB có icon ra ngoài thanh Công cụ & tự động reset DeviceID/WDA khi cáp USB chập chờn.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.16/SangLink-Patch-v3.10.16.zip",
-  "patch_sha256": "4813d32717b2bd4f9274bf80bb3dbe3de721faf74c07f561cc9eb048c109f969",
+  "version": "3.10.17",
+  "notes": "SangLink v3.10.17: Sửa lệch khung chat góp ý, thêm chấm đỏ chuông Thông báo khi Admin phản hồi và cập nhật buộc tắt popup Apple ID / FaceTime.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.17/SangLink-Patch-v3.10.17.zip",
+  "patch_sha256": "f2adbeb4c0023a7c3d6c08a38902d8efd3384bb135ee4e983c47206af8e408c4",
   "patch_size_mb": 32.28,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.16/SangLink-Setup-v3.10.16.zip",
-  "full_sha256": "fc90ab0b89a74e0c21463751e9ec90995bc245a4f6e677fad904489d1c94e6b5",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.17/SangLink-Setup-v3.10.17.zip",
+  "full_sha256": "9e3a6a76d981938adad76bdd05e765dc2750371e338960478dc8c258148d2fc0",
   "full_size_mb": 59.8
 }
