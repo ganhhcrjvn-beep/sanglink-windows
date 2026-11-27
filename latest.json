@@ -1,10 +1,10 @@
 {
-  "version": "3.10.18",
-  "notes": "SangLink v3.10.18: Thêm nút Gỡ Panda / WDA cũ qua USB, chống spam USB khi máy lỗi WDA và ổn định tải App Store hàng loạt.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.18/SangLink-Patch-v3.10.18.zip",
-  "patch_sha256": "ba233e0e815dbb15143f42a210330b5d87f55035b3c42d85c8c088b89f83e454",
+  "version": "3.10.19",
+  "notes": "SangLink v3.10.19: Gỡ bỏ nút Gỡ Panda / WDA cũ; giữ tối ưu chống nghẽn USB và ổn định tải App Store.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.19/SangLink-Patch-v3.10.19.zip",
+  "patch_sha256": "7e05cfa01e9e7f83384b8357dff190d1e21faad3d703777f00f96f035dcf2e19",
   "patch_size_mb": 32.28,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.18/SangLink-Setup-v3.10.18.zip",
-  "full_sha256": "16492f7298ef0ea33e4e7dcf1c0114d80e7f6b3bb9b382619ce108f406b18aaa",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.19/SangLink-Setup-v3.10.19.zip",
+  "full_sha256": "eddd521dcc4bfa3679bc784984de570ee528ad63358f2086b89f35720e59b5a9",
   "full_size_mb": 59.8
 }
