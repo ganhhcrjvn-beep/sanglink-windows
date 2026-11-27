@@ -1,10 +1,10 @@
 {
-  "version": "3.10.17",
-  "notes": "SangLink v3.10.17: Sửa lệch khung chat góp ý, thêm chấm đỏ chuông Thông báo khi Admin phản hồi và cập nhật buộc tắt popup Apple ID / FaceTime.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.17/SangLink-Patch-v3.10.17.zip",
-  "patch_sha256": "f2adbeb4c0023a7c3d6c08a38902d8efd3384bb135ee4e983c47206af8e408c4",
+  "version": "3.10.18",
+  "notes": "SangLink v3.10.18: Thêm nút Gỡ Panda / WDA cũ qua USB, chống spam USB khi máy lỗi WDA và ổn định tải App Store hàng loạt.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.18/SangLink-Patch-v3.10.18.zip",
+  "patch_sha256": "ba233e0e815dbb15143f42a210330b5d87f55035b3c42d85c8c088b89f83e454",
   "patch_size_mb": 32.28,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.17/SangLink-Setup-v3.10.17.zip",
-  "full_sha256": "9e3a6a76d981938adad76bdd05e765dc2750371e338960478dc8c258148d2fc0",
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.18/SangLink-Setup-v3.10.18.zip",
+  "full_sha256": "16492f7298ef0ea33e4e7dcf1c0114d80e7f6b3bb9b382619ce108f406b18aaa",
   "full_size_mb": 59.8
 }
