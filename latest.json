@@ -1,10 +1,10 @@
 {
-  "version": "3.10.19",
-  "notes": "SangLink v3.10.19: Gỡ bỏ nút Gỡ Panda / WDA cũ; giữ tối ưu chống nghẽn USB và ổn định tải App Store.",
-  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.19/SangLink-Patch-v3.10.19.zip",
-  "patch_sha256": "7e05cfa01e9e7f83384b8357dff190d1e21faad3d703777f00f96f035dcf2e19",
-  "patch_size_mb": 32.28,
-  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.19/SangLink-Setup-v3.10.19.zip",
-  "full_sha256": "eddd521dcc4bfa3679bc784984de570ee528ad63358f2086b89f35720e59b5a9",
-  "full_size_mb": 59.8
+  "version": "3.10.20",
+  "notes": "SangLink v3.10.20: Cập nhật gói PandaHelper_1.15_11.26.ipa mới để cài WDA.",
+  "patch_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.20/SangLink-Patch-v3.10.20.zip",
+  "patch_sha256": "4ff64990f4b37ea0ce67fae12800ae3c65b58b4fec0f335ac5ea8a3a9aa42403",
+  "patch_size_mb": 34.72,
+  "full_url": "https://github.com/ganhhcrjvn-beep/sanglink-windows/releases/download/v3.10.20/SangLink-Setup-v3.10.20.zip",
+  "full_sha256": "be7acb2ac381c326cfa335ed5303ec939f65875686649a6aedfc6185016b718c",
+  "full_size_mb": 59.77
 }
